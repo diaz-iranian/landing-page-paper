@@ -1,0 +1,459 @@
+.simulasikanPembayaranLebih1 {
+    position: relative;
+    line-height: 150%;
+}
+.apiEmbeded {
+    margin: 0;
+}
+.apiEmbededFinancingContainer {
+    position: relative;
+    font-size: 56px;
+    line-height: 150%;
+    display: inline-block;
+    width: 647px;
+}
+.simulasikanPembayaranLebihCParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.heroTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 260px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 0;
+}
+.pointChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #c4e1a2;
+    border: 1px solid #abd57b;
+    box-sizing: border-box;
+    width: 24px;
+    height: 24px;
+}
+.b {
+    position: absolute;
+    top: 7.2px;
+    left: 8.26px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 7.47px;
+    height: 9.6px;
+}
+.point {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.informasiSupplier {
+    position: relative;
+    line-height: 150%;
+    color: #abd57b;
+}
+.step1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    color: #fff;
+}
+.lineIcon2 {
+    position: relative;
+    width: 35px;
+    height: 3px;
+}
+.pointItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #f8f9fa;
+    border: 1px solid #d4dade;
+    box-sizing: border-box;
+    width: 24px;
+    height: 24px;
+}
+.informasiSupplier1 {
+    position: relative;
+    line-height: 150%;
+    color: #d6dbe0;
+}
+.step3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.content1 {
+    align-self: stretch;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.wrapper2 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.stepper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    z-index: 0;
+    font-size: 14px;
+    color: #d4dade;
+}
+.dataDiriLengkap1 {
+    position: relative;
+    line-height: 135%;
+}
+.dataDiriLengkapWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 1;
+    font-size: 16px;
+}
+.namaLengkap {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+}
+.inputText {
+    align-self: stretch;
+    background-color: #f7fbfd;
+    height: 27px;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+}
+.underlineIcon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+    flex-shrink: 0;
+}
+.inputArea {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.text3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #c2cdd5;
+}
+.namaLengkapParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    z-index: 2;
+}
+.alamatLengkapParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    z-index: 3;
+}
+.pilihTanggal {
+    flex: 1;
+    position: relative;
+    line-height: 150%;
+}
+.inputText2 {
+    align-self: stretch;
+    background-color: #f7fbfd;
+    height: 27px;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.tanggalLahirParent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+}
+.frameParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    z-index: 4;
+}
+.noKtpParent {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+}
+.span {
+    color: #c2cdd5;
+}
+.text10 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #3c5467;
+}
+.frameGroup {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    z-index: 5;
+}
+.namaPerusahaanParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    z-index: 6;
+}
+.alamatPerusahaanParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    z-index: 7;
+}
+.unggahDokumenPribadiWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 8;
+    font-size: 16px;
+}
+.component1Wrapper {
+    border-radius: 5px;
+    background-color: #e8f2fa;
+    width: 72px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.fotoBelumDiunggah1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    line-height: 135%;
+    color: #8695a1;
+}
+.fotoEKtpParent {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frameParent2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.btnText3 {
+    position: relative;
+}
+.button {
+    align-self: stretch;
+    border-radius: 100px;
+    border: 1px solid #4195d5;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 20px;
+    align-items: center;
+    justify-content: center;
+    color: #4195d5;
+}
+.frameParent1 {
+    flex: 1;
+    border-radius: 10px;
+    border: 1px solid #e8f3fa;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+}
+.iconpaperfile {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameDiv {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    z-index: 9;
+    font-size: 14px;
+}
+.button2 {
+    border-radius: 100px;
+    background-color: #e0e4e7;
+    width: 214px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    font-size: 16px;
+    color: #9aa6b0;
+}
+.pulseEffectIcon {
+    position: absolute;
+    margin: 0 !important;
+    bottom: -27px;
+    left: calc(50% - 80px);
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+    flex-shrink: 0;
+    opacity: 0;
+    z-index: 11;
+}
+.content {
+    border-radius: 10px;
+    background-color: #fff;
+    /* width: 540px; */
+    display: flex;
+    flex-direction: column;
+    padding: 30px 24px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    gap: 18px;
+}
+.wrapper1 {
+    border-radius: 10px;
+    background: linear-gradient(110.88deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(24px);
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.registrationForm {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 1;
+    font-size: 12px;
+    color: #133f5d;
+}
+.text13 {
+    margin: 0 !important;
+    position: absolute;
+    bottom: -64px;
+    left: 809px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 8px 16px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    z-index: 2;
+    font-size: 16px;
+    color: #c2cdd5;
+}
+.simulator {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 48px;
+    text-align: left;
+    font-size: 31px;
+    color: #fff;
+    font-family: Lato;
+    margin-top: 8%;
+    margin-left: 8%;
+}
+

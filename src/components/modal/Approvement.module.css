@@ -1,0 +1,161 @@
+.iconpapercross {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    cursor: pointer;
+}
+.iconpapercrossWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 0px 10px;
+    align-items: center;
+    justify-content: flex-end;
+}
+.selamatPembayaranAnda1 {
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    width: 468px;
+}
+.keRekeningPenerima {
+    margin: 0;
+}
+.pembayaranSudahDiterimaContainer {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+}
+.pembayaranSudahDiterimaOlehWrapper {
+    width: 468px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.frameWrapper {
+    width: 468px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 14px;
+}
+.selamatPembayaranAndaBerhaParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+.nominalTransaksi {
+    position: relative;
+    line-height: 135%;
+}
+.rp500000000 {
+    position: relative;
+    line-height: 135%;
+    color: #133f5d;
+}
+.nominalTransaksiParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.adminFee {
+    position: relative;
+}
+.rp209000 {
+    position: relative;
+    line-height: 19px;
+    color: #4c6e84;
+}
+.frameParent1 {
+    align-self: stretch;
+    border-radius: 10px;
+    background-color: #f7fbfd;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.rp5000000001 {
+    position: relative;
+    line-height: 135%;
+    color: #4199d5;
+}
+.frameDiv {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #859cab;
+}
+.frameGroup {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.button {
+    border-radius: 100px;
+    background-color: #93c854;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 20px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.footer {
+    width: 468px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0px 0px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size: 14px;
+}
+.frameParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.modalsapprovementkoinworks {
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(132.62deg, #1e79b7, #004575);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 16px 24px 24px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Lato;
+}
+

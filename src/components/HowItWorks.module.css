@@ -1,0 +1,679 @@
+.prosesPendaftaranSmartcart {
+    position: absolute;
+    top: 54px;
+    left: calc(50% - 427px);
+    line-height: 82px;
+}
+.b {
+    position: relative;
+    line-height: 135%;
+}
+.isiDataDiri1 {
+    flex: 1;
+    position: relative;
+    font-size: 20px;
+    line-height: 135%;
+    width: 100px;
+}
+.parent {
+    width: 502px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.stepsInner {
+    border-radius: 10px;
+    background-color: #4199d5;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    color: #fff;
+}
+.group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.stepsChild {
+    align-self: stretch;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.parent1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.steps {
+    position: absolute;
+    top: 290px;
+    left: 147px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 17px;
+}
+.dataDiriLengkapWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.namaLengkap {
+    align-self: stretch;
+    position: relative;
+    line-height: 135%;
+}
+.priskaAprilia {
+    flex: 1;
+    position: relative;
+    line-height: 19px;
+}
+.inputText {
+    align-self: stretch;
+    background-color: #f7fbfd;
+    height: 27px;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+}
+.underlineIcon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+    flex-shrink: 0;
+}
+.inputArea {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.namaLengkapParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    font-size: 14px;
+}
+.frameChild {
+    position: relative;
+    border-radius: 30px;
+    background-color: #95c1df;
+    width: 77px;
+    height: 10px;
+    opacity: 0.8;
+}
+.frameItem {
+    align-self: stretch;
+    position: relative;
+    border-radius: 30px;
+    background-color: #e8f3fa;
+    height: 10px;
+    opacity: 0.8;
+}
+.rectangleParent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.frameParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.iconpaperfile {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.iconpaperfileWrapper {
+    border-radius: 5px;
+    background-color: #e8f2fa;
+    width: 72px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.frameChild2 {
+    position: relative;
+    border-radius: 30px;
+    background-color: #e8f3fa;
+    width: 131px;
+    height: 10px;
+    opacity: 0.8;
+}
+.rectangleContainer {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 0px 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.buttonChild {
+    flex: 1;
+    position: relative;
+    border-radius: 30px;
+    background-color: #c2def2;
+    height: 8px;
+    opacity: 0.8;
+}
+.button {
+    border-radius: 100px;
+    border: 1px solid #4195d5;
+    box-sizing: border-box;
+    width: 75px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 20px;
+    align-items: center;
+    justify-content: center;
+}
+.frameGroup {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.contentInner {
+    border-radius: 10px;
+    border: 1px solid #e8f3fa;
+    box-sizing: border-box;
+    width: 492px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+.content {
+    border-radius: 10px;
+    background-color: #fff;
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 24px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.wrapper {
+    border-radius: 10px;
+    background: linear-gradient(110.88deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(24px);
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 0;
+}
+.buttonDaftar11 {
+    position: absolute;
+    margin: 0 !important;
+    right: -88px;
+    bottom: -69px;
+    width: 438px;
+    height: 160px;
+    object-fit: cover;
+    z-index: 1;
+}
+.step1 {
+    box-shadow: 0px 0px 40px rgba(19, 63, 93, 0.1);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+.pilihPenawaranUntukPinjamanWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+    font-size: 20px;
+    color: #133f5d;
+}
+.jumlahPinjaman {
+    position: relative;
+    line-height: 135%;
+    transform:  rotate(-0.23deg);
+    transform-origin: 0 0;
+}
+.rp5000000 {
+    align-self: stretch;
+    position: relative;
+    font-size: 24px;
+    line-height: 135%;
+    color: #4195d5;
+    text-align: left;
+}
+.content2 {
+    align-self: stretch;
+    border-radius: 5px;
+    background-color: #f7fbfd;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5px;
+    z-index: 1;
+    text-align: center;
+    color: #c2def2;
+}
+.checkBoxChild {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    border-radius: 4px;
+    background-color: #4199d5;
+}
+.checkBoxItem {
+    position: absolute;
+    height: 20%;
+    width: 30%;
+    top: 41.67%;
+    right: 36.67%;
+    bottom: 38.33%;
+    left: 33.33%;
+    border-radius: 0.5px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.checkBox {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.image2Icon {
+    position: relative;
+    width: 154px;
+    height: 24px;
+    object-fit: cover;
+}
+.checkBoxParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.ellipseDiv {
+    position: relative;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1.5px solid #fff;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+}
+.rp300000000 {
+    position: relative;
+    line-height: 135%;
+    color: #133f5d;
+}
+.jumlahPinjamanParent {
+    width: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.fee {
+    position: relative;
+    line-height: 19px;
+}
+.feeParent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.ellipseParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frameParent1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+}
+.contentChild {
+    align-self: stretch;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 2;
+}
+.checkBoxInner {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    border-radius: 4px;
+    border: 1.5px solid #eaedef;
+    box-sizing: border-box;
+}
+.image3Icon {
+    position: relative;
+    width: 86px;
+    height: 24px;
+    object-fit: cover;
+}
+.checkBoxGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.ellipseGroup {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.contentInner1 {
+    align-self: stretch;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px rgba(61, 149, 210, 0.1);
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 3;
+}
+.frame2234611 {
+    position: absolute;
+    margin: 0 !important;
+    top: 169px;
+    left: -51px;
+    width: 640px;
+    height: 160px;
+    object-fit: cover;
+    z-index: 4;
+}
+.content1 {
+    border-radius: 10px;
+    background-color: #fff;
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 24px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    gap: 18px;
+}
+.buttonSimpan11 {
+    position: absolute;
+    margin: 0 !important;
+    bottom: -31.57px;
+    left: calc(50% - 176px);
+    width: 353px;
+    height: 80px;
+    object-fit: cover;
+    z-index: 1;
+}
+.step2 {
+    box-shadow: 0px 0px 40px rgba(19, 63, 93, 0.1);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    font-size: 14px;
+    color: #718c9e;
+}
+.image1Icon {
+    position: relative;
+    width: 142px;
+    height: 142px;
+    object-fit: cover;
+    z-index: 0;
+}
+.container3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.paperButton1 {
+    border-radius: 24px;
+    border: 1px solid #4199d5;
+    box-sizing: border-box;
+    height: 38px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 16px;
+    align-items: center;
+    justify-content: center;
+}
+.paperButtonWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 1;
+}
+.icon1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 24px;
+    left: 450px;
+    border-radius: 100px;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+}
+.container2 {
+    align-self: stretch;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px dashed #4199d5;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 32px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    gap: 10px;
+}
+.areaContainer1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.upload {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: #4199d5;
+}
+.buttonTtd11 {
+    position: absolute;
+    margin: 0 !important;
+    right: -64.17px;
+    bottom: -24px;
+    width: 324.17px;
+    height: 64px;
+    object-fit: cover;
+    z-index: 1;
+}
+.step3 {
+    box-shadow: 0px 0px 40px rgba(19, 63, 93, 0.1);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    text-align: center;
+}
+.modalLimitAktif11 {
+    position: relative;
+    width: 425px;
+    height: 386px;
+    object-fit: cover;
+}
+.content4 {
+    border-radius: 10px;
+    background: linear-gradient(128.88deg, #fff, rgba(251, 253, 254, 0.62) 35.56%, rgba(248, 251, 254, 0));
+    backdrop-filter: blur(16px);
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    align-items: center;
+    justify-content: flex-start;
+}
+.buttonTransaksi11 {
+    position: absolute;
+    margin: 0 !important;
+    right: -64px;
+    bottom: -24px;
+    width: 353px;
+    height: 64px;
+    object-fit: cover;
+    z-index: 1;
+}
+.list {
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 73px 0px 46px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 166px;
+}
+.pendaftaran {
+    position: absolute;
+    top: 196px;
+    left: 796px;
+    width: 706px;
+    height: 573px;
+    overflow: hidden;
+    font-size: 20px;
+}
+.howItWorks1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 829px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: #133f5d;
+    font-family: Lato;
+}
+.grouping {
+    position: relative;
+    left: calc(50% - 781px);
+}
+
+
+
+.step1, .step2, .step3, .step1 {
+    position: relative;
+    top: 0;
+    animation: move 10s infinite 1s;
+  }
+  
+  @keyframes move {
+    0% {
+      top: 0px; 
+    }
+    80% {
+      top: 200px;
+    }
+    40% {
+      top: -700px;
+    }
+    80% {
+      top: -1900px;
+    }
+    60% {
+      top: -1400px;
+    }
+  }

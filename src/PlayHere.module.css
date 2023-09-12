@@ -1,0 +1,1093 @@
+.auroraIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 1073px;
+}
+.apiEmbeded {
+  margin: 0;
+}
+.apiEmbededFinancingContainer {
+  position: relative;
+  font-size: 56px;
+  line-height: 150%;
+  display: inline-block;
+  width: 647px;
+}
+.simulasikanPembayaranLebihCParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.heroTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+  font-size: 31px;
+}
+.title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+  text-align: center;
+  font-size: 18px;
+}
+/* .jumlahPinjaman {
+  position: relative;
+  line-height: 135%;
+} */
+.inputText {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 10px;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  outline: none;
+  font-size: 24px;
+  font-weight: 600;
+  color: #4199d5;
+}
+/* Mengubah warna placeholder teks menjadi merah */
+input::placeholder {
+  color: #c2cdd5;
+}
+
+.inputAreaChild {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #eaedef;
+  box-sizing: border-box;
+  height: 1px;
+}
+.inputArea {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  color: #c2cdd5;
+}
+.inputForm {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  z-index: 1;
+}
+.b {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.inputForm1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  z-index: 2;
+}
+.button {
+  border-radius: 100px;
+  background-color: #e0e4e7;
+  width: 214px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  color: #9aa6b0;
+  cursor: pointer;
+}
+.pulseEffectIcon {
+  position: absolute;
+  margin: 0 !important;
+  top: 187px;
+  left: calc(50% - 80px);
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0;
+  z-index: 4;
+  cursor: pointer;
+}
+.content {
+  border-radius: 10px;
+  background-color: #fff;
+  width: 540px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 24px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 24px;
+}
+.wrapper1 {
+  border-radius: 10px;
+  background: linear-gradient(110.88deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(24px);
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.registrationForm {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+  color: #133f5d;
+}
+.text19 {
+  margin: 0 !important;
+  position: absolute;
+  top: 394px;
+  left: 809px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 8px 16px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  z-index: 2;
+  color: #c2cdd5;
+}
+.text19, .text22 {
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover 1s infinite  alternate;
+}
+.text19, .text22  {
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover 1s infinite  alternate;
+}
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+
+.simulator {
+  position: absolute;
+  top: 140px;
+  left: calc(50% - 633px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.logoIcon {
+  position: relative;
+  width: 114.52px;
+  height: 39.96px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.produk {
+  position: relative;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.button1 {
+  border-radius: 100px;
+  border: 1px solid #93c854;
+  box-sizing: border-box;
+  width: 93.93px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 20px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.button2 {
+  border-radius: 100px;
+  background-color: #93c854;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 20px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  cursor: pointer;
+}
+.action {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  font-size: 14px;
+  color: #93c854;
+}
+.body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 116px;
+}
+.topBar {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 634px);
+  width: 1267px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
+.heroSection {
+  position: relative;
+  background: linear-gradient(190.6deg, #4195d5 8.79%, #3279ae 48.41%, #26628e 64.15%, #133f5d);
+  width: 100%;
+  height: 1139px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.howItWorks1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 829px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.grouping {
+  left: calc(50% - 779px);
+  position: relative;
+}
+.lihatSimulasiPenggunaan1 {
+  position: absolute;
+  top: 303px;
+  left: 147px;
+  line-height: 150%;
+  display: inline-block;
+  width: 591px;
+}
+.rectangleIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.b7 {
+  position: relative;
+  line-height: 4px;
+}
+.frame {
+  align-self: stretch;
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 2px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper6 {
+  display: flex;
+  flex-direction: column;
+  padding: 2px 14px;
+  align-items: center;
+  justify-content: center;
+  margin-left: -1px;
+  font-size: 12px;
+  color: #133f5d;
+}
+.plus {
+  position: relative;
+  line-height: 20px;
+}
+.wrapper7 {
+  align-self: stretch;
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: -1px;
+  font-size: 16px;
+}
+.qty {
+  border-radius: 2px;
+  border: 0.7px solid #eceff1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 22px;
+}
+.rp5000000Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.button4 {
+  align-self: stretch;
+  border-radius: 100px;
+  background-color: #93c854;
+  display: flex;
+  flex-direction: row;
+  padding: 9px 15px;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #fff;
+}
+.frameParent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  font-size: 12px;
+  color: #4195d5;
+}
+.soleilKursiLipatHitamParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.rectangleParent1 {
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 162px);
+  left: 242.46px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 217px;
+  height: 324px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  opacity: 0.4;
+  z-index: 0;
+}
+.rectangleParent2 {
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 162px);
+  left: -160px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 217px;
+  height: 324px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  opacity: 0.4;
+  z-index: 1;
+}
+.frameChild5 {
+  position: relative;
+  border-radius: 5px;
+  width: 277.46px;
+  height: 200px;
+  object-fit: cover;
+}
+.evedalNightLamp {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  height: 42px;
+  flex-shrink: 0;
+}
+.wrapper11 {
+  align-self: stretch;
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 2px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
+.wrapper12 {
+  display: flex;
+  flex-direction: column;
+  padding: 2px 14px;
+  align-items: center;
+  justify-content: center;
+  margin-left: -1px;
+  color: #133f5d;
+}
+.wrapper13 {
+  align-self: stretch;
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: -1px;
+}
+.qty2 {
+  border-radius: 2px;
+  border: 0.7px solid #eceff1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 16px;
+}
+.button6 {
+  align-self: stretch;
+  border-radius: 100px;
+  background-color: #93c854;
+  display: flex;
+  flex-direction: row;
+  padding: 9px 15px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #fff;
+}
+.frameParent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  font-size: 20px;
+  color: #4195d5;
+}
+.rectangleParent3 {
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 0px 16px rgba(63, 86, 103, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 2;
+  font-size: 24px;
+}
+.products {
+  position: absolute;
+  top: 150px;
+  left: 953px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+  font-size: 13px;
+}
+.text22 {
+  position: absolute;
+  top: 600px;
+  right: 272px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 8px 16px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+  color: #c2cdd5;
+}
+.checkout {
+  position: relative;
+  background-color: #f7fbfd;
+  width: 100%;
+  height: 736px;
+  font-size: 40px;
+}
+.manfaatYangBisa1 {
+  position: relative;
+  line-height: 82px;
+  display: inline-block;
+  width: 966px;
+  flex-shrink: 0;
+}
+.title1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0px 10px 10px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.listChild {
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  left: 22.5px;
+  border-right: 3px solid #eaedef;
+  box-sizing: border-box;
+  width: 3px;
+  height: 316px;
+  z-index: 0;
+}
+.iconpapercheck {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.oneTimeIntegration1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 125%;
+}
+.menyediakanSolusiPembiayaan1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 150%;
+}
+.oneTimeIntegrationParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.point {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 1;
+}
+.point1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 2;
+}
+.point2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 3;
+}
+.list1 {
+  width: 652px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 48px;
+}
+.contentItem {
+  position: relative;
+  width: 473px;
+  height: 499px;
+  object-fit: cover;
+}
+.content6 {
+  width: 1264px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 26px;
+}
+.benefit {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 96px 150px 164px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 48px;
+  text-align: center;
+}
+
+.groupChild {
+  position: absolute;
+  top: -90.23px;
+  left: -190.86px;
+  background: linear-gradient(93.95deg, rgba(65, 149, 213, 0) 14.34%, #3a8fce 40.73%, #247dc0 62.97%, #0f456a 96.99%);
+  width: 1558.95px;
+  height: 621px;
+  display: none;
+}
+
+.lady2Icon {
+  position: absolute;
+  top: 0px;
+  left: 0.62px;
+  width: 866.22px;
+  height: 733.91px;
+  object-fit: cover;
+}
+.groupItem {
+  position: absolute;
+  top: 172.55px;
+  left: 0px;
+  width: 632.82px;
+  height: 560.18px;
+}
+.lady2Parent {
+  position: absolute;
+  top: -92.18px;
+  left: -205.16px;
+  width: 866.84px;
+  height: 733.91px;
+  display: none;
+}
+.lady2Icon1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 314px;
+  height: 313px;
+  object-fit: cover;
+}
+.lady2Wrapper {
+  position: relative;
+  width: 314px;
+  height: 313px;
+}
+.button7 {
+  border-radius: 100px;
+  background-color: #93c854;
+  width: 274.46px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+.frameParent6 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.groupParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1199.55px;
+  height: 377px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 88px;
+}
+.elementOutlineParent {
+  position: absolute;
+  top: 68px;
+  /* left: 176px; */
+  left: calc(50% - 633px);
+  width: 1199.55px;
+  height: 377px;
+}
+.footerChild {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.paperlogofinalWhiteModify1Icon {
+  position: relative;
+  width: 157px;
+  height: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.hubungiKami {
+  position: relative;
+  line-height: 150%;
+}
+.phoneIcon11 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.phoneIcon1Wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 4px 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frameParent11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.emailIcon11 {
+  position: relative;
+  width: 14px;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent12 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+}
+.frameParent9 {
+  width: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.seninJumatParent {
+  width: 147px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frameParent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.sabtuLiburNasionalParent {
+  width: 146px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frameParent15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.time {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.timeWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.jamOperasional {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.addressIcon11 {
+  position: relative;
+  width: 12px;
+  height: 13px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.jlSunterGarden3 {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 168px;
+}
+.frameParent16 {
+  width: 357px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.frameParent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.paperlogofinalWhiteModify1Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.navigation {
+  width: 470px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.orderDanPenawaranParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frameParent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.navigation1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.navigationInner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation2 {
+  width: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.navigationParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px;
+}
+.content7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.playstoreIcon1 {
+  position: relative;
+  width: 114px;
+  height: 41px;
+  object-fit: cover;
+}
+.secureWhite1Icon {
+  position: relative;
+  width: 98px;
+  height: 19px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.kanLogo27001Icon1 {
+  position: relative;
+  width: 49px;
+  height: 28px;
+  object-fit: cover;
+}
+.bvCertificationIso27001Icon {
+  position: relative;
+  width: 71px;
+  height: 36px;
+  object-fit: cover;
+}
+.kanLogo27001Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.secureWhite1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.security {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.followMeParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.navigation4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 28px;
+}
+.youtubeIcon1 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.iconWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.right {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 35px;
+  color: #fff;
+}
+.footerNotes {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer1 {
+  position: absolute;
+  top: 520px;
+  /* left: 146px; */
+  left: calc(50% - 633px);
+  width: 1267px;
+  height: 574px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px;
+  font-size: 14px;
+}
+.footer {
+  position: relative;
+  background: linear-gradient(125.5deg, #257ab4, #113955 99.48%, #113955 99.49%);
+  width: 100%;
+  height: 1140px;
+  font-size: 37px;
+  color: #fff;
+}
+.playHere {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 48px;
+  color: #133f5d;
+  font-family: Lato;
+}
+

@@ -1,0 +1,506 @@
+.iconpapercross {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.iconpapercrossWrapper {
+    width: 746px;
+    height: 41px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px 10px 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-end;
+}
+.paymentPaper {
+    position: relative;
+    line-height: 135%;
+}
+option {
+    font-size: 14px;
+    font-family: Lato;
+    color: #4c6e84;
+    text-align: left;
+}
+.paymentPaperWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: rgba(65, 149, 213, 0.12);
+    display: flex;
+    flex-direction: row;
+    padding: 4px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.pilihMetodePembayaran1 {
+    position: absolute;
+    top: 50.91%;
+    left: 0%;
+    font-size: 20px;
+    line-height: 135%;
+    color: #133f5d;
+}
+.frameParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 55px;
+}
+.groupWrapper {
+    position: relative;
+    width: 228px;
+    height: 52px;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.tokopedia1 {
+    position: relative;
+    line-height: 20px;
+}
+.chooseChild {
+    position: relative;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1.5px solid #9aa6b0;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+}
+.image138Icon1 {
+    position: relative;
+    width: 47px;
+    height: 14px;
+    object-fit: cover;
+}
+.image138Wrapper {
+    border-radius: 5px;
+    width: 103px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.choose {
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.tokopedia {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5px;
+    z-index: 0;
+}
+.dividerIcon {
+    position: relative;
+    width: 363px;
+    height: 0.3px;
+    z-index: 1;
+}
+.creditCardWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.title2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.frameChild {
+    position: relative;
+    width: 31.28px;
+    height: 17.88px;
+}
+.chooseInner {
+    width: 99px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.kartuKredit {
+    position: relative;
+    line-height: 19px;
+}
+.choose1 {
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.creditCard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5px;
+    z-index: 2;
+}
+.dividerIcon1 {
+    position: relative;
+    width: 363px;
+    height: 0.3px;
+    z-index: 3;
+}
+.title3 {
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.check2 {
+    border-radius: 100px;
+    border: 1.5px solid #9aa6b0;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+}
+.image2Icon {
+    position: relative;
+    width: 106px;
+    height: 16px;
+    object-fit: cover;
+}
+.koinworks {
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.ghost2 {
+    border-radius: 100px;
+    background-color: #f8fbfe;
+    width: 20px;
+    height: 20px;
+}
+.jumlahPinjaman {
+    width: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.b {
+    position: relative;
+    line-height: 135%;
+    color: #133f5d;
+}
+.fee {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.details {
+    border-radius: 5px;
+    background-color: #f8fbfe;
+    width: 363px;
+    display: none;
+    flex-direction: row;
+    padding: 4px 10px 10px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #718c9e;
+}
+.detailst {
+    border-radius: 5px;
+    background-color: #f8fbfe;
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 10px 10px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #718c9e;
+}
+.wrapper {
+    border-radius: 5px;
+    background-color: #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.image3Icon {
+    position: relative;
+    width: 57px;
+    height: 16px;
+    object-fit: cover;
+}
+.image3Wrapper {
+    width: 99px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 4px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.investree {
+    width: 363px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.wrapper2 {
+    border-radius: 5px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.paperUsaha {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    z-index: 4;
+}
+.method {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 16px;
+}
+.frameItem {
+    position: relative;
+    width: 24.74px;
+    height: 13.12px;
+}
+.groupParent {
+    width: 226px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.path817Icon1 {
+    position: relative;
+    width: 6px;
+    height: 10px;
+}
+.promo {
+    align-self: stretch;
+    border-radius: 5px;
+    border: 0.5px solid #becbd3;
+    box-sizing: border-box;
+    height: 39px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0 10px 10px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.promo .select {
+    height: 36px;
+    width: 250px;
+    font-size: 14px;
+    color: #4c6e84;
+    font-family: Lato;
+}
+.select {
+    border: none;
+    outline: none;
+  }
+select {
+-webkit-appearance: none;
+-moz-appearance: none; 
+appearance: none;
+}
+    
+.subtotal1 {
+    position: relative;
+    line-height: 135%;
+    display: inline-block;
+    width: 73px;
+    flex-shrink: 0;
+}
+.rp5000000 {
+    position: relative;
+    line-height: 135%;
+    text-align: right;
+}
+.subtotal {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 112px;
+}
+.path10040Icon {
+    position: relative;
+    width: 256px;
+    height: 0.3px;
+}
+.totalPembayaran1 {
+    position: relative;
+    line-height: 135%;
+    display: inline-block;
+    width: 129px;
+    flex-shrink: 0;
+}
+.totalCount {
+    position: relative;
+    line-height: 135%;
+    color: #4195d5;
+    text-align: right;
+}
+.totalPembayaran {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 44px;
+    font-size: 14px;
+}
+.total {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 12px;
+}
+.price {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 14px;
+    color: #133f5d;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameIcon1 {
+    position: relative;
+    width: 12.43px;
+    height: 13.49px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.btnText1 {
+    position: relative;
+}
+.button {
+    align-self: stretch;
+    border-radius: 100px;
+    background-color: #c2cdd5;
+    height: 41px;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+}
+.button:active {
+    background-color: #93c854;
+}
+.button:hover{
+    background-color: #93c854;
+}
+
+.summary {
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px rgba(63, 86, 103, 0.1);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    font-size: 12px;
+    color: #4c6e84;
+}
+.body {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 80px;
+    font-size: 14px;
+    color: #133f5d;
+}
+.paymentMethodpayment1 {
+    position: relative;
+    border-radius: 16px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 40px 40px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    text-align: left;
+    font-size: 12px;
+    color: #4195d5;
+    font-family: Lato;
+}
+
